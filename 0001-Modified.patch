@@ -1,0 +1,19 @@
+From f8b859dd96b3558e1c3f436361b45b90a29e9b22 Mon Sep 17 00:00:00 2001
+From: Hasini2018 <bt20ece009@students.vnit.ac.in>
+Date: Fri, 20 Sep 2024 12:01:40 +0530
+Subject: [PATCH] Modified
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index 466d018..4875f3a 100644
+--- a/index.html
++++ b/index.html
+@@ -1 +1 @@
+-<html><head></head> INDEX <body></body></html>
++<html><head></head>NEW INDEX <body></body></html>
+-- 
+2.41.0.windows.1
+
